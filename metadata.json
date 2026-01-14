@@ -1,0 +1,7 @@
+{
+  "name": "OmniStock AI",
+  "description": "A production-grade inventory management system featuring AI-powered invoice scanning, role-based access control, and real-time stock analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
